@@ -1,11 +1,11 @@
-# Supplementary information: Explainable Deep Learning for Imbalance-Robust Network Intrusion Detection: A Systematic Literature Review
+# Supplementary information: Explainable Deep Learning and Class-Imbalance Mitigation in Network Intrusion Detection: A Structured Review of Methods, Evaluation Practice and Reporting Gaps
 
 **Authors:** Tarun Jangwal (corresponding author, tarun.24044@lpu.co.in) and Purva Pathania
 Lovely Professional University, Phagwara, Punjab, India
 
 **Journal:** Archives of Computational Methods in Engineering (Springer)
 
-This repository holds the eight Online Resources (electronic supplementary material) of the review. They are the same files supplied to the journal with the manuscript. Citation details will be added here when the article is published.
+This repository holds the eight Online Resources (electronic supplementary material) of the review. Record identifiers carry the prefix R (for example R57) to distinguish them from reference numbers. They are the same files supplied to the journal with the manuscript. Citation details will be added here when the article is published.
 
 ## Files
 
